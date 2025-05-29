@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+beautifulsoup4
+html5lib
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+Flask
